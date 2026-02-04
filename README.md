@@ -111,8 +111,10 @@ Queries are available in: sql/queries.sql
 ## 🚀 How to Run This Project
 
 ### 1️⃣ Clone the Repository
+
 ```bash
 git clone https://github.com/your-username/Sales-Analytics-Project.git
+``` 
 
 ### 2️⃣ Open Python Notebook
 
@@ -129,3 +131,4 @@ git clone https://github.com/your-username/Sales-Analytics-Project.git
 ### 4️⃣ Open Power BI Dashboard
 
     - Open sales_dashboard.pbix in Power BI Desktop
+
